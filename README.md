@@ -1,2 +1,2 @@
 # finalassignmentTDS
-public repo for uploading final ssignment Tools for Data Science
+public repo for uploading final assignment Tools for Data Science
